@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783694400766",
+    "project_id": "tvpp2-894e0",
+    "storage_bucket": "tvpp2-894e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783694400766:android:7df25cbae6766229b4e9af",
+        "android_client_info": {
+          "package_name": "com.example.pp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcvxQz7lOm3o3mssSm-6eEv7Fh_6yRtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
